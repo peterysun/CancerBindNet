@@ -21,9 +21,9 @@ Testing against FDA-approved drugs confirms the model captures real binding rela
 
 | Molecule | Target | Predicted IC50 | Known IC50 | Result |
 |---|---|---|---|---|
-| Gefitinib | EGFR | 2.2 nM | ~5 nM | ✅ Strong binder |
-| Erlotinib | EGFR | 8.0 nM | ~2 nM | ✅ Strong binder |
-| Aspirin | EGFR | ~10,000 nM | No binding | ✅ Correctly rejected |
+| Gefitinib | EGFR | 2.2 nM | ~5 nM |  Strong binder |
+| Erlotinib | EGFR | 8.0 nM | ~2 nM |  Strong binder |
+| Aspirin | EGFR | ~10,000 nM | No binding |  Correctly rejected |
 
 ---
 
